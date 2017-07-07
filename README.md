@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-JakeDayViewTool::Renderer.copyright "Jake Day", "All rights reserved"
+JakedayViewTool::Renderer.copyright "Jake Day", "All rights reserved"
 ```
 ## Development
 
